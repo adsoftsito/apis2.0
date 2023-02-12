@@ -18,3 +18,6 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Crear el proyecto Kanban para la admistracion del proyecto.
 - Crear backlog
 - Crear Issues divididos en 3 releases.
+
+# Tareas parcial 1
+- Realizar el laboratorio pet name generator: https://platform.openai.com/docs/quickstart/closing
