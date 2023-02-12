@@ -10,3 +10,11 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Se espera que la app mantenga conversaciones convencionales a partir de cierta información y o espacios donde deberá encontrarla.
 - Se espera que pueda hacer predicciones sobre algunos temas/conceptos.
 - Se espera que pueda traducir y funcionar entre los idiomas de inglés/español.
+
+# Actividades del parcial 1
+- Crear equipos de trabajo para el proyecto
+- Investigar sobre los de servicios de la API: https://platform.openai.com/docs/api-reference/introduction
+- Crear repositorio en Github, agregar a integrantes
+- Crear el proyecto Kanban para la admistracion del proyecto.
+- Crear backlog
+- Crear Issues divididos en 3 releases.
