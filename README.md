@@ -20,6 +20,8 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Crear Issues divididos en 3 releases.
 
 # Actividades del parcial 2
-1. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing), version [mysql](https://docs.google.com/presentation/d/1XCU-Q8uKVOLARYizHy70f9-LyS_lngOkQIl6ityj2ow/edit?usp=sharing)
-2. Realizar [Crear Graphql API](https://www.howtographql.com/graphql-python/0-introduction/)
+1. Crear una [REST-API en postgres](https://docs.google.com/presentation/d/1a5cRhFod-mP-EtBFS3-NkLSCHgdbe8BhnvQ-TUUucA8/edit?usp=sharing)
+2. Realizar [Deploy NodeJs](https://docs.google.com/presentation/d/1JZwXtZyVSp3fYoRfMo0iTvDuAUTdLatG/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+3. Realizar [Add Node-JWT](https://docs.google.com/presentation/d/1lynN7LSyfyZ6GIUCX1sSUrHtp56s0u0N/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+
 
