@@ -24,6 +24,8 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 2. Realizar [Deploy NodeJs](https://docs.google.com/presentation/d/1JZwXtZyVSp3fYoRfMo0iTvDuAUTdLatG/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 3. Realizar [Add Node-JWT](https://docs.google.com/presentation/d/1lynN7LSyfyZ6GIUCX1sSUrHtp56s0u0N/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 4. Integracion [Front/Backend](https://docs.google.com/presentation/d/15SM8SgpQzxChmN_dKD74eMM06o1i84W_a1vaOJqJCGg/edit?usp=sharing)
+5. Openai [API](https://docs.google.com/presentation/d/1PwUGIBFif4AKKFunBthCn9JFc3u15dG1_LSWS14ceSk/edit?usp=sharing)
+
 
 
 
