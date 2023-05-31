@@ -26,6 +26,9 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 4. Integracion [Front/Backend](https://docs.google.com/presentation/d/15SM8SgpQzxChmN_dKD74eMM06o1i84W_a1vaOJqJCGg/edit?usp=sharing)
 5. Openai [API](https://docs.google.com/presentation/d/1PwUGIBFif4AKKFunBthCn9JFc3u15dG1_LSWS14ceSk/edit?usp=sharing)
 6. Persistencia de [Logs](https://docs.google.com/presentation/d/15EarfyT861OqzfH4trOKjlINU5cLtGaeIrG5Y1S_o2g/edit?usp=sharing)
+7. Soporte [Multi idiomas](https://docs.google.com/presentation/d/17X5Zjj14cknfKvvAtNLRikXKDSogXKE7rG_za2wvy1M/edit?usp=sharing)
+
+
 
 
 
