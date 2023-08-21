@@ -12,7 +12,8 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Se espera que pueda traducir y funcionar entre los idiomas de inglés/español.
 
 # Actividades del parcial 1
-- Crear equipos de trabajo para el proyecto
+- Realizar [lab de git](https://github.com/adsoftsito/apis2.0/blob/main/sesion1_intro_adm_proy.pdf)
+- Crear equipos de trabajo para el proyecto final
 - Investigar sobre los de servicios de la API: https://platform.openai.com/docs/api-reference/introduction
 - Crear repositorio en Github, agregar a integrantes
 - Crear el proyecto Kanban para la admistracion del proyecto.
